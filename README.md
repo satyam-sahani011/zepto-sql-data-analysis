@@ -98,3 +98,20 @@ The project answers the following questions:
 MSc Operational Research  
 University of Delhi
 
+## Key Insights
+
+- Compared products based on discount percentage to identify highly discounted items.
+- Identified high-value products that were out of stock.
+- Estimated category-level revenue using discounted selling price and available inventory.
+- Compared products with higher MRP and lower discount percentages.
+- Identified categories with higher average discounts.
+- Calculated price per gram to compare product value across different product weights.
+- Grouped products into Low, Medium, and Bulk weight categories.
+- Calculated total inventory weight by category to understand inventory volume.
+
+## Conclusion
+
+This project demonstrates how SQL can be used to clean e-commerce data and answer practical business questions related to pricing, discounts, inventory, product availability, and revenue.
+
+The analysis helped convert raw product-level data into useful business insights using PostgreSQL.
+
